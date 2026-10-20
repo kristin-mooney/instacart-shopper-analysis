@@ -14,7 +14,7 @@ A three-dashboard Tableau story answering three specific business questions usin
 ## 📊 Dashboard Overview
 
 ### Dashboard 1 — When Customers Shop
-![When Customers Shop](screenshots/dashboard1-when-customers-shop.png)
+![When Customers Shop](<screenshots/When Customers Shop.png>)
 
 Analyzes order volume by day of week and hour of day. Includes:
 - **Order Volume Heatmap** — day × hour grid showing peak demand windows
@@ -24,7 +24,7 @@ Analyzes order volume by day of week and hour of day. Includes:
 ---
 
 ### Dashboard 2 — What Customers Are Buying
-![What Customers Are Buying](screenshots/dashboard2-what-customers-buy.png)
+![What Customers Are Buying](<screenshots/What Customers are Buying.png>)
 
 Analyzes product department performance by volume and reorder loyalty. Includes:
 - **Reorder Rate by Department** — Dairy & Eggs leads at 51%, Pets at 49%; Personal Care lowest at 23%
@@ -34,7 +34,7 @@ Analyzes product department performance by volume and reorder loyalty. Includes:
 ---
 
 ### Dashboard 3 — Shopper Loyalty Segments
-![Shopper Loyalty Segments](screenshots/dashboard3-loyalty-segments.png)
+![Shopper Loyalty Segments](<screenshots/Shopper Loyalty.png>)
 
 Segments 200,000+ customers by order frequency and shopping cadence. Includes:
 - **Customer Distribution** — At-Risk (30%), Regulars (29%), New & Active (23%), Loyalists (19%)
