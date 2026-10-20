@@ -1,4 +1,4 @@
-# 🛒 Instacart Shopper Behavior Analysis
+# Instacart Shopper Behavior Analysis
 
 [![Tableau Public](https://img.shields.io/badge/Tableau-Public-blue?logo=tableau)](https://public.tableau.com/app/profile/kristin.mooney/viz/InstacartAnalyticsProject/UnderstandingInstacartShopperBehavior)
 [![dbt](https://img.shields.io/badge/dbt-Transformation-green?logo=dbt)](https://kristin-mooney.github.io/instacart-analytics/)
@@ -7,11 +7,11 @@ A three-dashboard Tableau story answering three specific business questions usin
 
 ---
 
-## 🔗 [View the Live Dashboard on Tableau Public](https://public.tableau.com/app/profile/kristin.mooney/viz/InstacartAnalyticsProject/UnderstandingInstacartShopperBehavior)
+## [View the Live Dashboard on Tableau Public](https://public.tableau.com/app/profile/kristin.mooney/viz/InstacartAnalyticsProject/UnderstandingInstacartShopperBehavior)
 
 ---
 
-## 📊 Dashboard Overview
+## Dashboard Overview
 
 ### Dashboard 1 — When Customers Shop
 ![When Customers Shop](<screenshots/When Customers Shop.png>)
@@ -43,20 +43,20 @@ Segments 200,000+ customers by order frequency and shopping cadence. Includes:
 
 ---
 
-## 🔑 Key Findings
+## Key Findings
 
 | Insight | Detail |
 |---|---|
-| 📅 Weekend Concentration | Saturday & Sunday account for 35% of all weekly orders |
-| ⏰ Morning Peak | Orders peak at 10am (284,728 orders); overnight hours nearly inactive |
-| 🥦 Produce Dominates Volume | Produce = 29% of all orders — nearly 3× the next largest department |
-| 🥛 Dairy Anchors Loyalty | Dairy & Eggs reorder rate: 51% — highest of any department |
-| 👑 Loyalists Drive Revenue | 19% of customers → 41% of total order volume |
-| ⚠️ At-Risk Gap | At-Risk customers (30% of base) contribute only 12% of orders, shopping every 24 days |
+| Weekend Concentration | Saturday & Sunday account for 35% of all weekly orders |
+| Morning Peak | Orders peak at 10am (284,728 orders); overnight hours nearly inactive |
+| Produce Dominates Volume | Produce = 29% of all orders — nearly 3× the next largest department |
+| Dairy Anchors Loyalty | Dairy & Eggs reorder rate: 51% — highest of any department |
+| Loyalists Drive Revenue | 19% of customers → 41% of total order volume |
+| At-Risk Gap | At-Risk customers (30% of base) contribute only 12% of orders, shopping every 24 days |
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - **dbt** — staging → marts SQL transformation pipeline
 - **SQL** — data modeling and aggregation
@@ -64,13 +64,13 @@ Segments 200,000+ customers by order frequency and shopping cadence. Includes:
 
 ---
 
-## 📁 Data Source
+## Data Source
 
 - **Kaggle Instacart Online Grocery Shopping Dataset (2017)** — ~3.4 million grocery orders from 200,000+ anonymized users across 50,000+ products
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 ├── screenshots/
